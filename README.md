@@ -10,15 +10,15 @@ nulloneguyanordinaryusername@github
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
-Location: Artesia, CA
+Location: Novosibirsk, RU
 Frameworks: Vue
 Languages: JavaScript,
            HTML, CSS
 Learning: Vuex, NuxtJS
 Hobbies: Cooking, Gaming, Guitar
-Commits: 200
+Commits: 261
 Stars: 6
-Discord: RandomPotato#1377
+Telegram: nulloneguy 
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
