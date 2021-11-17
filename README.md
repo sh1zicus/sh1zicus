@@ -16,9 +16,11 @@ Languages: JavaScript,
            HTML, CSS
 Learning: Vuex, NuxtJS
 Hobbies: Cooking, Gaming, Guitar
-Commits: 261
+Commits: 0
 Stars: 6
-Telegram: nulloneguy 
+Discord: nulloneguy
+Telegram: @nulloneguy
+Mail: nulloneguy@ya.ru
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
