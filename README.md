@@ -18,7 +18,8 @@ Learning: Vuex, NuxtJS
 Hobbies: Cooking, Gaming, Guitar
 Commits: 261
 Stars: 6
-Telegram: nulloneguy 
+Telegram: @nulloneguy
+Mail: nulloneguy@ya.ru
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
