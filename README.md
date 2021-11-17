@@ -18,7 +18,10 @@ Learning: Vuex, NuxtJS
 Hobbies: Cooking, Gaming, Guitar
 Commits: 0
 Stars: 6
+<<<<<<< HEAD
 Discord: nulloneguy
+=======
+>>>>>>> cc2825c057525b0e710615c73e0a8b1eb0365c3c
 Telegram: @nulloneguy
 Mail: nulloneguy@ya.ru
 ```
