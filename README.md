@@ -14,11 +14,11 @@ Location: Novosibirsk, RU
 Frameworks: Vue
 Languages: JavaScript,
            HTML, CSS
-Learning: Vuex, NuxtJS
+Learning: Vuex
 Hobbies: Cooking, Gaming, Guitar
 Commits: 0
 Stars: 6
-Telegram: @nulloneguy
+Telegram: @bebope
 Mail: nulloneguy@ya.ru
 ```
 
