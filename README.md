@@ -17,7 +17,7 @@ Languages: JavaScript,
 Learning: Vuex
 Hobbies: Cooking, Gaming, Guitar
 Commits: 0
-Stars: 6
+Stars: 0
 Telegram: @bebope
 Mail: nulloneguy@ya.ru
 ```
