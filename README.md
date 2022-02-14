@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2022 - 12 February, 2022
+Week: 07 February, 2022 - 13 February, 2022
 
 Lua    3 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.92 % 
 HTML   2 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.85 % 
