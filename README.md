@@ -11,4 +11,4 @@ CSS    1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░
 sh     58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
 <!--END_SECTION:waka-->
-My Stack: html,css,js,vue
+My Stack: `html, css, js, vue`
