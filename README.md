@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 13 February, 2022 - To: 20 February, 2022
 
 Lua     4 hrs 1 min     ████████████▓░░░░░░░░░░░░   50.02 % 
 Bash    1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 % 
