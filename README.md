@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 16 February, 2022 - To: 23 February, 2022
 
-Lua    3 hrs 27 mins   ███████████████░░░░░░░░░░   59.34 % 
-Bash   1 hr 2 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.75 % 
-TOML   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-CSS    15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-INI    12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Lua      3 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.98 % 
+Bash     53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Vue.js   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+TOML     18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Other    17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 ```
 <!--END_SECTION:waka-->
 My Stack: `html, css, js, vue`
