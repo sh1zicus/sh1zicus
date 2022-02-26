@@ -9,4 +9,4 @@ XML          38 mins         █▓░░░░░░░░░░░░░░░
 Vue.js       25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 <!--END_SECTION:waka-->
-My Stack: `html, css, js, vue`
+My Stack: `html, css, js, vue, svelte`
