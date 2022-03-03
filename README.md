@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2022 - To: 02 March 2022
+From: 24 February 2022 - To: 03 March 2022
 
-Svelte       2 hrs 47 mins   █████████░░░░░░░░░░░░░░░░   36.14 %
-Lua          2 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-JavaScript   1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
-XML          35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Svelte       2 hrs 47 mins   ███████████░░░░░░░░░░░░░░   43.75 %
+JavaScript   1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+Lua          44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+XML          35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Other        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
