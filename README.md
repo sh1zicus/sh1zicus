@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2022 - To: 07 March 2022
+From: 01 March 2022 - To: 08 March 2022
 
-Lua        42 mins         ██████████▓░░░░░░░░░░░░░░   42.95 %
-Svelte     31 mins         ████████░░░░░░░░░░░░░░░░░   32.08 %
-Other      13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+Svelte        31 mins         ████████████▓░░░░░░░░░░░░   50.15 %
+Lua           11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
+Other         8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
 ```
 
 <!--END_SECTION:waka-->
