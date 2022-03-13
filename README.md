@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2022 - To: 12 March 2022
+From: 06 March 2022 - To: 13 March 2022
 
-Lua           1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
-Bash          56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
-Other         30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Lua           1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+Bash          56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+Other         30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
 ```
 
 <!--END_SECTION:waka-->
