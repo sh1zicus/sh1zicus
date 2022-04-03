@@ -1,10 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2022 - To: 02 April 2022
+From: 27 March 2022 - To: 03 April 2022
 
-Lua    25 mins         █████████████████████████   100.00 %
-HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Lua     36 mins         ██████████▓░░░░░░░░░░░░░░   42.86 %
+conf    13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+Other   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
 ```
 
 <!--END_SECTION:waka-->
