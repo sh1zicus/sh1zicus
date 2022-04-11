@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2022 - To: 10 April 2022
+From: 04 April 2022 - To: 11 April 2022
 
 Lua          3 hrs 17 mins   ████████████░░░░░░░░░░░░░   48.03 %
 Vue.js       2 hrs 53 mins   ██████████▓░░░░░░░░░░░░░░   42.28 %
