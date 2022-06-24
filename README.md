@@ -1,12 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 June 2022 - To: 23 June 2022
+From: 17 June 2022 - To: 24 June 2022
 
-Lua           30 mins         ██████████████████▓░░░░░░   74.73 %
-conkyrc       6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
-PacmanConf    2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Other         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Lua           53 mins         █████████████████▓░░░░░░░   70.10 %
+Other         13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
 ```
 
 <!--END_SECTION:waka-->
