@@ -1,10 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 June 2022 - To: 25 June 2022
+From: 19 June 2022 - To: 26 June 2022
 
-Lua           2 hrs 17 mins   █████████████████████▒░░░   85.48 %
-Other         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Lua           2 hrs 31 mins   █████████████████████▓░░░   86.60 %
+Other         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
 ```
 
 <!--END_SECTION:waka-->
