@@ -12,4 +12,4 @@ Markdown     5 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-My Stack: `html, css, js, vue, svelte`
+My Stack: `html, css, js, ts, vue`
