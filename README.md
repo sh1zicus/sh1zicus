@@ -1,10 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 July 2022 - To: 04 August 2022
+From: 29 July 2022 - To: 05 August 2022
 
-Lua          2 hrs 27 mins   █████████████████████▓░░░   86.52 %
-Other        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Lua           3 hrs 42 mins   ███████████░░░░░░░░░░░░░░   43.91 %
+Python        2 hrs 37 mins   ███████▓░░░░░░░░░░░░░░░░░   31.12 %
+Other         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 ```
 
 <!--END_SECTION:waka-->
