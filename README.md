@@ -3,7 +3,7 @@
 ```text
 From: 08 August 2022 - To: 15 August 2022
 
-Other        7 hrs 30 mins   ██████████████▒░░░░░░░░░░   56.72 %
+Other        4 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   36.81 %
 ```
 
 <!--END_SECTION:waka-->
