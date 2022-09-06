@@ -1,11 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
+From: 30 August 2022 - To: 06 September 2022
 
-HTML         4 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   39.12 %
-Lua          1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Other        55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+HTML         4 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   34.26 %
+Lua          1 hr 53 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+Bash         1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Other        1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
 ```
 
 <!--END_SECTION:waka-->
