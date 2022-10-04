@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 September 2022 - To: 03 October 2022
+From: 27 September 2022 - To: 04 October 2022
 
-Markdown     1 hr 18 mins    ████████████████░░░░░░░░░   64.37 %
-INI          23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-Lua          17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Markdown     1 hr 17 mins    █████████████████▒░░░░░░░   68.84 %
+INI          23 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+Lua          9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
