@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-Lua          9 mins          ██████████████▒░░░░░░░░░░   57.38 %
-Markdown     3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
-TypeScript   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Lua          10 mins         ██████████████▒░░░░░░░░░░   57.91 %
+Markdown     3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+TypeScript   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
