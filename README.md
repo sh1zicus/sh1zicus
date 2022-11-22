@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 November 2022 - To: 21 November 2022
+From: 15 November 2022 - To: 22 November 2022
 
-Lua         49 mins         ██████████████▓░░░░░░░░░░   58.51 %
-Bash        13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-Other       12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+Lua         34 mins         ████████████▓░░░░░░░░░░░░   50.06 %
+Bash        13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Other       12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
 ```
 
 <!--END_SECTION:waka-->
