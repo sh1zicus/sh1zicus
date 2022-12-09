@@ -1,11 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 08 December 2022
+From: 02 December 2022 - To: 09 December 2022
 
-fish        19 mins         █████████░░░░░░░░░░░░░░░░   36.19 %
-HTML        11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-Other       10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Other      20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.77 %
 ```
 
 <!--END_SECTION:waka-->
