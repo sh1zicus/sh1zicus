@@ -1,11 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 17 December 2022
+From: 11 December 2022 - To: 18 December 2022
 
-Bash         8 mins          ████████████████████░░░░░   80.40 %
-HTML         1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+HTML     3 mins          ███████████████████████▓░   94.69 %
+Vue.js   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
