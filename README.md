@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-conf        1 hr 32 mins    ███████▒░░░░░░░░░░░░░░░░░   28.76 %
-INI         1 hr 22 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
-Bash        54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-Other       32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+conf        2 hrs 6 mins    ████████░░░░░░░░░░░░░░░░░   32.37 %
+INI         1 hr 44 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+Bash        1 hr            ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+Other       40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
 ```
 
 <!--END_SECTION:waka-->
