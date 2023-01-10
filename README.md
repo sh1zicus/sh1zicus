@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 January 2023 - To: 09 January 2023
+From: 03 January 2023 - To: 10 January 2023
 
-Lua          1 hr 56 mins    ███████████▒░░░░░░░░░░░░░   45.77 %
-Markdown     59 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
-Other        35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Lua          1 hr 42 mins    ██████████▓░░░░░░░░░░░░░░   43.32 %
+Markdown     59 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
+Other        35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
 ```
 
 <!--END_SECTION:waka-->
