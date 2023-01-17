@@ -1,10 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 January 2023 - To: 16 January 2023
+From: 10 January 2023 - To: 17 January 2023
 
-conf    0 secs          █████████████████████░░░░   84.62 %
-Other   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Lua          1 hr 16 mins    ██████████████▒░░░░░░░░░░   57.26 %
+TypeScript   31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+i3config     17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
