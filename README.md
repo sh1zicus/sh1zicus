@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
 Lua          1 hr 16 mins    ██████████████▒░░░░░░░░░░   57.26 %
 TypeScript   31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.08 %
