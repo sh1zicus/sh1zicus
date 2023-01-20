@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 13 January 2023 - To: 20 January 2023
 
-Lua          1 hr 16 mins    ██████████████▒░░░░░░░░░░   57.26 %
-TypeScript   31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.08 %
-i3config     17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Lua          1 hr 16 mins    █████████████░░░░░░░░░░░░   52.11 %
+TypeScript   31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+i3config     17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+Other        16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
 ```
 
 <!--END_SECTION:waka-->
