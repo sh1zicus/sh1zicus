@@ -7,4 +7,4 @@ Lua   40 mins         ███████████████████�
 ```
 
 <!--END_SECTION:waka-->
-My Stack: `html, css, js, ts, vue`
+My Stack: `HTML, CSS, JS, React`
