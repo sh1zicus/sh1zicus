@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 Lua          2 hrs 57 mins   ████████████████░░░░░░░░░   64.51 %
