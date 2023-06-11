@@ -1,10 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2023 - To: 10 June 2023
+From: 04 June 2023 - To: 11 June 2023
 
-Lua    44 mins         ████████████████████▓░░░░   83.19 %
-tags   9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
+Lua    43 mins         ████████████████████▓░░░░   82.65 %
+tags   9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
 ```
 
 <!--END_SECTION:waka-->
