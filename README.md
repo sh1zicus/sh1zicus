@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2023 - To: 17 June 2023
+From: 11 June 2023 - To: 18 June 2023
 
 Text   50 mins         ██████████████▒░░░░░░░░░░   57.68 %
 fish   24 mins         ███████░░░░░░░░░░░░░░░░░░   27.81 %
