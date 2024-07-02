@@ -1,9 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2024 - To: 01 July 2024
+From: 25 June 2024 - To: 02 July 2024
 
-Markdown   2 mins          █████████████████████████   100.00 %
+conf         24 mins         ████████████████▓░░░░░░░░   66.04 %
+PacmanConf   10 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
+Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
