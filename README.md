@@ -13,4 +13,5 @@ INI        6 mins          █░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 My Stack: `HTML, CSS, JS, React, Python` <br>
-Wokrin on: `dots-hyprland`
+Wokrin on: `dots-hyprland` <br>
+Telegram: https://t.me/sh1zicus
