@@ -12,4 +12,5 @@ INI        6 mins          █░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-My Stack: `HTML, CSS, JS, React`
+My Stack: `HTML, CSS, JS, React, Python`
+Wokrin on: `dots-hyprland`
