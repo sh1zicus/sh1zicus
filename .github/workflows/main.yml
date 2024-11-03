@@ -14,6 +14,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
-          TIME_RANGE: last_30_days
+          TIME_RANGE: all_time
+          LANG_COUNT: 12
           SHOW_TOTAL: true
           COMMIT_MESSAGE: "`UPD WAKATIME STATS`"
