@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2022 - To: 14 December 2024
+From: 09 February 2022 - To: 15 December 2024
 
 Total Time: 327 hrs 10 mins
 
-Lua            95 hrs 35 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
-Vue.js         51 hrs 23 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Lua            95 hrs 35 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
+Vue.js         51 hrs 23 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
 JavaScript     46 hrs 56 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-Other          25 hrs 21 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Other          25 hrs 34 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
 TypeScript     22 hrs 50 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
 Bash           17 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-conf           15 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-HTML           9 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+conf           15 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+HTML           9 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 INI            9 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 Markdown       7 hrs 50 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 SCSS           6 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
