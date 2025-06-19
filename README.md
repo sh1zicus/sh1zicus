@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2022 - To: 18 June 2025
+From: 09 February 2022 - To: 19 June 2025
 
-Total Time: 333 hrs 45 mins
+Total Time: 333 hrs 53 mins
 
-Lua                  95 hrs 35 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+Lua                  95 hrs 35 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
 Vue.js               51 hrs 23 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
-JavaScript           49 hrs 24 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-TypeScript           26 hrs 41 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+JavaScript           49 hrs 24 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+TypeScript           26 hrs 49 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 Other                25 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 Bash                 17 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 conf                 15 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
