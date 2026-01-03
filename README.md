@@ -3,13 +3,13 @@
 ```txt
 From: 09 February 2022 - To: 02 January 2026
 
-Total Time: 337 hrs 22 mins
+Total Time: 337 hrs 30 mins
 
-Lua                  95 hrs 35 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
-Vue.js               51 hrs 23 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-JavaScript           49 hrs 24 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Lua                  95 hrs 35 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+Vue.js               51 hrs 23 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+JavaScript           49 hrs 32 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
 TypeScript           29 hrs 2 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Other                25 hrs 39 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Other                25 hrs 39 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 Bash                 17 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 conf                 15 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 HTML                 9 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
